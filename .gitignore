@@ -1,0 +1,18 @@
+### demo-spring-di ###
+
+demo-spring-di/HELP.md
+demo-spring-di/.gradle
+demo-spring-di/build/
+demo-spring-di/gradle/wrapper/gradle-wrapper.jar
+demo-spring-di/gradle/
+demo-spring-di/**/src/main/**/build/
+demo-spring-di/**/src/test/**/build/
+
+### IntelliJ IDEA ###
+demo-spring-di/.idea
+demo-spring-di/*.iws
+demo-spring-di/*.iml
+demo-spring-di/*.ipr
+demo-spring-di/out/
+demo-spring-di/**/src/main/**/out/
+demo-spring-di/**/src/test/**/out/
