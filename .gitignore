@@ -1,5 +1,4 @@
 ### demo-spring-di ###
-
 demo-spring-di/HELP.md
 demo-spring-di/.gradle
 demo-spring-di/build/
@@ -16,3 +15,9 @@ demo-spring-di/*.ipr
 demo-spring-di/out/
 demo-spring-di/**/src/main/**/out/
 demo-spring-di/**/src/test/**/out/
+
+### refactoring-example ###
+refactoring-example/.idea
+refactoring-example/target
+
+refactoring-example\.idea
