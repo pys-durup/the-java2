@@ -1,5 +1,5 @@
 package org.example;
-
+@MyAnnotation()
 public class Book {
 
     private String a;
@@ -8,6 +8,7 @@ public class Book {
 
     private static final String C = "BOOK";
 
+    @MyAnnotation()
     public String d = "d";
 
     protected String e = "e";
