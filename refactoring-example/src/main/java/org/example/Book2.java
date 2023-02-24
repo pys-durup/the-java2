@@ -13,7 +13,7 @@ public class Book2 {
         B = b;
     }
 
-    public void c() {
+    private void c() {
         System.out.println("C");
     }
 
