@@ -21,3 +21,22 @@ refactoring-example/.idea
 refactoring-example/target
 
 refactoring-example\.idea
+
+
+### lombok-demo ###
+lombok-demo/HELP.md
+lombok-demo/.gradle
+lombok-demo/build/
+lombok-demo/gradle/wrapper/gradle-wrapper.jar
+lombok-demo/gradle/
+lombok-demo/**/src/main/**/build/
+lombok-demo/**/src/test/**/build/
+
+lombok-demo/.idea
+lombok-demo/*.iws
+lombok-demo/*.iml
+lombok-demo/*.ipr
+lombok-demo/out/
+lombok-demo/**/src/main/**/out/
+lombok-demo/**/src/test/**/out/
+
